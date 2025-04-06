@@ -1,0 +1,18 @@
+{
+    "id": 86407629,
+    "name": "Tidal Wave",
+    "author": "OniLink",
+    "creators": ["OniLink"],
+    "verifier": "Zoink",
+    "verification": "https://youtu.be/9fsZ014qB3s?si=XOx0sWuF4Y8Un1GR",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+        {
+            "user": "Trick",
+            "link": "https://youtu.be/t0o4wsg36l0?si=0c0Blv582Gh05OIC",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}
