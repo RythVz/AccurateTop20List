@@ -1,0 +1,23 @@
+{
+  "name": "accuratetop20list",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RythVz/AccurateTop20List.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RythVz/AccurateTop20List/issues"
+  },
+  "homepage": "https://github.com/RythVz/AccurateTop20List#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
